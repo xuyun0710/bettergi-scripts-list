@@ -1,0 +1,18 @@
+{
+  "manifest_version": 1,
+  "name": "角色圣遗物总评分",
+  "version": "1.0.0",
+  "bgi_version": "0.65.0",
+  "description": "识别圣遗物详情页的副词条，按角色权重计算单件评分，并累加成 5 件套装总分/毕业度。支持连扫、单件、标定、查看与清空记录。",
+  "authors": [
+    {
+      "name": "xuyun0710",
+      "links": "https://github.com/xuyun0710"
+    }
+  ],
+  "settings_ui": "settings.json",
+  "main": "main.js",
+  "saved_files": [
+    "score_state.json"
+  ]
+}

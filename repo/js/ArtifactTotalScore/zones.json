@@ -1,0 +1,17 @@
+{
+  "useZone": false,
+  "substatZone": {
+    "x": 0.55,
+    "y": 0.28,
+    "w": 0.33,
+    "h": 0.45
+  },
+  "filter": {
+    "hpFlat": 1500,
+    "atkFlat": 200,
+    "defFlat": 150,
+    "pct": 35,
+    "em": 150,
+    "er": 40
+  }
+}
